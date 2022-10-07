@@ -18,7 +18,7 @@ const List = (props: ListProps) => {
                             <MyName>{teacher.name}</MyName>
                             <MyValue>{teacher.value_hour.toLocaleString('en-NA', { minimumFractionDigits: 2, style: 'currency', currency: 'EUR' })}/hour</MyValue>
                             <MyDescription>{teacher.description}</MyDescription>
-                            <Button sx={{ width: '70%'}}>Book</Button>
+                            <Button sx={{ width: '70%'}}>Book with {teacher.name}</Button>
                         </MyInfos>
                     </MyListItem>
                 ))}           

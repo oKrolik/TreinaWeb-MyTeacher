@@ -7,30 +7,30 @@ const Home: NextPage = () => {
   const teachers: Teacher[] = [
     {
       id: 1,
-      name: "Teacher 1",
+      name: "Guilherme Coelho",
       photo: "https://github.com/oKrolik.png",
-      description: "Teacher 1 description",
+      description: "Python programming classes",
       value_hour: 100
     },
     {
       id: 2,
-      name: "Teacher 2",
-      photo: "https://github.com/elton-fonseca.png",
-      description: "Teacher 2 description",
+      name: "Eduardo Correia",
+      photo: "https://github.com/eduardo-mdc.png",
+      description: "C and C++ programming classes",
       value_hour: 120
     },
     {
       id: 1,
-      name: "Teacher 2",
-      photo: "https://github.com/oKrolik.png",
-      description: "Teacher 2 description",
+      name: "Elton Fonseca",
+      photo: "https://github.com/elton-fonseca.png",
+      description: "React and TypeScript programming classes",
       value_hour: 110
     },
     {
       id: 1,
-      name: "Teacher 2",
-      photo: "https://github.com/oKrolik.png",
-      description: "Teacher 2 description",
+      name: "João Guedes",
+      photo: "https://github.com/FindingBits.png",
+      description: "General frontend programming classes",
       value_hour: 100
     }
   ]
