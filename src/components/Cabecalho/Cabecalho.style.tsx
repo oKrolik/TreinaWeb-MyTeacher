@@ -1,8 +1,7 @@
 import { styled } from "@mui/material";
-import { red } from "@mui/material/colors";
 
 
-export const HeaderContainer = styled('header')`
+export const CabecalhoContainer = styled('header')`
     width: 230px;
     margin: 40px auto;
     text-align: center;

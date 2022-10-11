@@ -13,6 +13,9 @@ const tema = createTheme({
             secondary: '#6c6767',
         },
     },
+    shape: {
+        borderRadius: 3,
+    },
     components: {
         MuiButton: {
             styleOverrides: {
