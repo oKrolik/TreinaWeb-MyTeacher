@@ -1,3 +1,13 @@
+## Project preview
+
+<div align="center">
+  <img height="80%" src="https://user-images.githubusercontent.com/93000522/194768693-63ad82e6-6f73-42d6-81ce-a5d4b50e1418.png"/>
+  <img height="60%" src="https://user-images.githubusercontent.com/93000522/195125139-b9fc6b69-54ea-4ee5-9abe-ee5a47e470bb.png"/>
+  <img height="60%" src="https://user-images.githubusercontent.com/93000522/195125513-0c2070a7-e3fb-4888-856c-db8290572da8.png"/>
+</div>
+
+#
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
