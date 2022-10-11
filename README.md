@@ -1,6 +1,7 @@
 ## Project preview
 
 <img src="https://user-images.githubusercontent.com/93000522/194768693-63ad82e6-6f73-42d6-81ce-a5d4b50e1418.png"/>
+<img src="https://user-images.githubusercontent.com/93000522/195125139-b9fc6b69-54ea-4ee5-9abe-ee5a47e470bb.png"/>
 
 #
 
